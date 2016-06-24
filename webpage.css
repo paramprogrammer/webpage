@@ -1,0 +1,29 @@
+h1{
+color:green;
+text-align:center;
+}
+body{
+background-image:url("file:///home/hp/Desktop/Book_JeevanKathaSantAttarSinghJiMastuanaSahibWale_LRG__16183.1410760479.500.750.jpg");
+background-repeat:no-repeat;
+background-size:500px 500px;
+top:50;
+left:100;
+}
+img.resize{
+   width:200px;
+   height:40px;
+}
+#box{
+height:100px;
+width:1000px;
+left:200;
+top:100;
+background-color:red;
+text-align:center;
+color:green;
+}
+/* resize images */
+#box img {
+    width: 100%;
+    height: auto;
+}
